@@ -9,11 +9,11 @@ The first chart that we calculated shows: the total rides, total drivers, total 
 
 We then created a pivot table to get the total fares for each city type between the dates, 2019-01-01 and 2019-04-29. We then created a new dataFrame by  using the "resample()" function by week 'W' to get the sum of the fares for each week. 
 
-![screenshot2]](https://user-images.githubusercontent.com/102992388/179814284-c8b9174f-fc6b-434a-b9de-891e68b40f72.png)
+![screenshot2](https://user-images.githubusercontent.com/102992388/179814284-c8b9174f-fc6b-434a-b9de-891e68b40f72.png)
 
 As expected, the total fares for each city type is greatest for urban cities, followed by suburuban cities, then rural cities. This was visualized using a multiple-line graph.
 
-![screenshot3[(https://user-images.githubusercontent.com/102992388/179815065-51be2086-d7d2-4c1f-af79-fe3d413fa817.png)
+![screenshot3](https://user-images.githubusercontent.com/102992388/179815065-51be2086-d7d2-4c1f-af79-fe3d413fa817.png)
 
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
